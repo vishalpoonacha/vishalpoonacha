@@ -11,6 +11,7 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently in 2nd year  at PES Un
 - 🤔 I’m looking for help in learning about Web Dev and JavaScript 
 - 💬 Ask me about anything and everything 
 - 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:vishalpoonacha007@gmail.com)
+-  😄 Pronouns: He/His/Him
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -44,9 +45,9 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently in 2nd year  at PES Un
 
 <br/>
 
-<a href="https://github.com/vishalpoonacha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishalpoonacha&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalpoonacha&theme=buefy&layout=compact" />
+<a href="https://github.com/vishal poonacha">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishalpoonacha&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalpoonacha&theme=dark&layout=compact" />
 </a>
 
 <br/>

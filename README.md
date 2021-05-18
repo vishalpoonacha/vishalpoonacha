@@ -45,8 +45,8 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently in 2nd year  at PES Un
 <br/>
 
 <a href="https://github.com/vishalpoonacha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishalpoonachatheme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalpoonacha&theme=buefy&layout=compact" />
 </a>
 
 <br/>

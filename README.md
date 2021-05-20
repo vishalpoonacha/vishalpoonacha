@@ -47,7 +47,7 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently in 2nd year  at PES Un
 
 <a href="https://github.com/vishal poonacha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishalpoonacha&theme=dark&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalpoonacha&theme=dark&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=dark&layout=compact" />
    
 </a>
 

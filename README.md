@@ -6,7 +6,7 @@
 I'm a Computer Science Enthusiast  👨‍💻, Currently in 2nd year  at PES University Bengaluru 👨‍🎓
 
 - 🔭 I’m currently working on taking rest  
-- 🌱 I’m currently learning about Data Structures and Algorithms , Dart & Flutter
+- 🌱 I’m currently learning about Data Structures and Algorithms , React-Native
 - 👯 I’m looking to collaborate on Data Science projects and Basic Web Dev stuff
 - 🤔 I’m looking for help in learning about Web Dev and JavaScript 
 - 💬 Ask me about anything and everything 

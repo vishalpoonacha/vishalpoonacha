@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-I'm a Computer Science Enthusiast  👨‍💻, Currently in 2nd year  at PES University Bengaluru 👨‍🎓
+I'm a Computer Science Enthusiast  👨‍💻, Currently in 3rd year  at PES University Bengaluru 👨‍🎓
 
 - 🔭 I’m currently working on taking rest  
 - 🌱 I’m currently learning about Data Structures and Algorithms , React-Native

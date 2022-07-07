@@ -1,4 +1,4 @@
-<h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20px"> , I'm Vishal <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
+<h1 align="Center">  Hi There, I'm Vishal /> </h1>
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
